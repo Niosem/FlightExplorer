@@ -1,0 +1,26 @@
+{
+  "name": "flightinterface",
+  "version": "0.1.0",
+  "description": "Niosem FlightInterface Web is a piloting interface for Niosem electric motor veicules",
+  "main": "index.js",
+  "scripts": {
+    "test": "flght-interface server open svr='localhost' port='8080' --debug -node-raw --b3D"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niosem/FlightExplorer.git"
+  },
+  "keywords": [
+    "Niosem",
+    "FlightExplorer",
+    "flightexplorer",
+    "flight-explorer",
+    "Flight-Explorer"
+  ],
+  "author": "Niosem Open Source Group (NOSG)",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/Niosem/FlightExplorer/issues"
+  },
+  "homepage": "https://github.com/Niosem/FlightExplorer#readme"
+}
